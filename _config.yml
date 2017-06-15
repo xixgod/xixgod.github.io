@@ -131,11 +131,11 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "2014.12 - 至今"
+    description: "上海"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "2012.07 - 2014.12"
+    description: "北京"
 
 # First image of the Timeline
 
